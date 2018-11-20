@@ -1,37 +1,44 @@
-## Welcome to GitHub Pages
+# 謝旻浩 (MIN-HAO HSIEH)
+- Birthday： 1995/01/07
+- Education: 靜宜大學 / 資訊傳播
+- Location: 彰化市 Changhua City 
+- E-mail: k335569@gmail.com
+- Personal Website: 
+<hr>
 
-You can use the [editor on GitHub](https://github.com/lucky54529/About-me/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 關於我
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 樂於團隊溝通合作<br>
+<br>
+  　　大學畢業專題用Unity做3D賽車手機遊戲。半年來，每<br>
+個禮拜和老師定期的meeting查看進度和制定目標，自己做<br>
+好的進度丟在line群組和組員討論，最後我也負責整合美術<br>
+、程式輸出成遊戲app讓專題順利完成。<br>
+這段過程自己收穫很多，很多東西都必須透過上網找教學或<br>
+看書的方式自學，並反覆修正，完成專題製作。<br>
+在團隊之中，難免會遇到不同的想法與意見，透過組員間的<br>
+溝通和討論，磨合達成共識。<br>
+通過專題後，得到很多信心、成就感，及了解團隊溝通協調<br>
+的重要性。 <br>
+<br>
+<br>
+- 樂於自主學習<br>
+<br>
+  退伍後，在業界網頁公司工作的學長推薦我可以往網頁前端<br>
+發展，開始自己買書，上網看影片自學，學習網頁基本技術<br>
+（HTML5﹑CSS3）和動態技術（jQuery）。<br>
+做出業界需要的響應式網頁（RWD），學習過程中花很多時間<br>
+學習，摸索，我也利用GitHub網站架出自己的履歷表作品。<br>
 
-### Markdown
+### 專業技能
+- 熟悉 HTML5 + CSS 完成RWD頁面架構和布局；不倚賴 CSS Framework，進行 RWD 客製化。
+- 瞭解 CSS3 的 Animate、transform 跟 transition。
+- 了解 JavaScript 基本語法，並使用 jQuery / CSS3 呈現網頁動態效果。
+- 能夠使用 GitHub Pages 建立一個靜態網頁。
+- Photoshop、Illustrator 基本工具操作。
+<hr>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 作品集 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lucky54529/About-me/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
