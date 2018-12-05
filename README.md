@@ -3,7 +3,7 @@
 - Education: 靜宜大學 / 資訊傳播
 - Location: 彰化市 Changhua City 
 - E-mail: k335569@gmail.com
-- Personal Website: 
+- Personal Website: https://lucky54529.github.io/works/
 <hr>
 
 ## 關於我
